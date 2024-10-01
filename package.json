@@ -1,0 +1,38 @@
+{
+  "name": "rem-to-em-cli",
+  "version": "1.0.0",
+  "description": "rem to em in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/rem-to-em-cli.git"
+  },
+  "keywords": [
+    "em",
+    "rem",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/rem-to-em-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/rem-to-em-cli#readme",
+  "bin": {
+    "rem-to-em-cli": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
